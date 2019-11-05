@@ -68,12 +68,11 @@ main{
   }
   .step-box{
     width: 90%;
+    margin: auto;
     margin-bottom: 20px;
-    position: relative;
-    right: 5px;
-    left: 38px;
+    float: none;
   }
   .step-box:last-child{
-  margin-bottom: 0;
-}
+    margin: auto;
+    margin-bottom: 0;
 }
